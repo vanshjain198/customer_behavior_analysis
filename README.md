@@ -28,54 +28,54 @@ Environment: Jupyter Notebook
 
 🔄 Project Steps
 
-1.Data Loading
+1.Data Loading :
 
-  *Imported dataset using Python
+   *Imported dataset using Python
   
-  *Verified schema, data types, and structure
+   *Verified schema, data types, and structure
 
 
-2.Exploratory Data Analysis (EDA)
+2.Exploratory Data Analysis (EDA) :
 
-  *Summary statistics
+   *Summary statistics
   
-  *Distribution analysis
+   *Distribution analysis
   
-  *Correlation and trend identification
+   *Correlation and trend identification
 
 
-3.Data Cleaning
+3.Data Cleaning :
   
-  *Handled missing values
+   *Handled missing values
   
-  *Removed duplicates
+   *Removed duplicates
   
-  *Standardized formats and columns
+   *Standardized formats and columns
 
 
-4.SQL Analysis
+4.SQL Analysis :
  
-  *Loaded cleaned data into relational databases
+   *Loaded cleaned data into relational databases
   
-  *Wrote SQL queries for aggregation and insights
+   *Wrote SQL queries for aggregation and insights
   
-  *Used joins, CTEs, window functions, and filters
+   *Used joins, CTEs, window functions, and filters
 
 
-5.Dashboard Development
+5.Dashboard Development :
  
-  *Connected database to Power BI
+   *Connected database to Power BI
   
-  *Built interactive dashboards
+   *Built interactive dashboards
   
-  *Created KPIs, charts, and filters
+   *Created KPIs, charts, and filters
 
 
-6.Reporting
+6.Reporting :
 
-  *Generated analytical report
+   *Generated analytical report
   
-  *Created a professional presentation using Gamma
+   *Created a professional presentation using Gamma
 
 
 📈 Results & Insights
